@@ -1,31 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="trt1" tvg-name="TRT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/TRT_1_logo.svg" group-title="Türkçe",TRT 1 HD
-https://iptv-org.github.io/iptv/countries/tr.m3u
+http://example.com/trt1/stream.m3u8
 
 #EXTINF:-1 tvg-id="kanald" tvg-name="Kanal D HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Kanal_D_logo.svg" group-title="Türkçe",Kanal D HD
-https://iptv-org.github.io/iptv/countries/tr.m3u
-
-#EXTINF:-1 tvg-id="showtv" tvg-name="Show TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Show_TV_logo.svg" group-title="Türkçe",Show TV HD
-https://iptv-org.github.io/iptv/countries/tr.m3u
-
-#EXTINF:-1 tvg-id="atv" tvg-name="ATV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/ATV_logo.svg" group-title="Türkçe",ATV HD
-https://iptv-org.github.io/iptv/countries/tr.m3u
-
-#EXTINF:-1 tvg-id="startv" tvg-name="Star TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Star_TV_logo.svg" group-title="Türkçe",Star TV HD
-https://iptv-org.github.io/iptv/countries/tr.m3u
-
-#EXTINF:-1 tvg-id="trt2" tvg-name="TRT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/TRT_2_logo.svg" group-title="Türkçe",TRT 2 HD
-https://iptv-org.github.io/iptv/countries/tr.m3u
-
-#EXTINF:-1 tvg-id="trt3" tvg-name="TRT 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/TRT_3_logo.svg" group-title="Türkçe",TRT 3 HD
-https://iptv-org.github.io/iptv/countries/tr.m3u
-
-#EXTINF:-1 tvg-id="trt4" tvg-name="TRT 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/TRT_4_logo.svg" group-title="Türkçe",TRT 4 HD
-https://iptv-org.github.io/iptv/countries/tr.m3u
-
-#EXTINF:-1 tvg-id="trt5" tvg-name="TRT 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/TRT_5_logo.svg" group-title="Türkçe",TRT 5 HD
-https://iptv-org.github.io/iptv/countries/tr.m3u
-
-#EXTINF:-1 tvg-id="trt6" tvg-name="TRT 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/TRT_6_logo.svg" group-title="Türkçe",TRT 6 HD
-https://iptv-org.github.io/iptv/countries/tr.m3u
+http://example.com/kanald/stream.m3u8
