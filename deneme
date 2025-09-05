@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="sozcu" tvg-name="Sözcü TV HD" tvg-logo="https://via.placeholder.com/100x100.png" group-title="Türkçe",Sözcü TV HD
+http://example.com/sozcu-tv-hd.m3u8
+
+#EXTINF:-1 tvg-id="halktv" tvg-name="HALK TV HD" tvg-logo="https://via.placeholder.com/100x100.png" group-title="Türkçe",HALK TV HD
+http://example.com/halk-tv-hd.m3u8
+
+#EXTINF:-1 tvg-id="tele1" tvg-name="TELE 1 HD" tvg-logo="https://via.placeholder.com/100x100.png" group-title="Türkçe",TELE 1 HD
+http://example.com/tele1-tv-hd.m3u8
+
+#EXTINF:-1 tvg-id="krt" tvg-name="KRT TV HD" tvg-logo="https://via.placeholder.com/100x100.png" group-title="Türkçe",KRT TV HD
+http://example.com/krt-tv-hd.m3u8
+
+#EXTINF:-1 tvg-id="nowtv" tvg-name="NOW TV HD" tvg-logo="https://via.placeholder.com/100x100.png" group-title="Türkçe",NOW TV HD
+http://example.com/now-tv-hd.m3u8
+
+#EXTINF:-1 tvg-id="atv" tvg-name="ATV HD" tvg-logo="https://via.placeholder.com/100x100.png" group-title="Türkçe",ATV HD
+http://example.com/atv-tv-hd.m3u8
+
+#EXTINF:-1 tvg-id="showtv" tvg-name="SHOW TV HD" tvg-logo="https://via.placeholder.com/100x100.png" group-title="Türkçe",SHOW TV HD
+http://example.com/show-tv-hd.m3u8
+
+#EXTINF:-1 tvg-id="startv" tvg-name="STAR TV HD" tvg-logo="https://via.placeholder.com/100x100.png" group-title="Türkçe",STAR TV HD
+http://example.com/star-tv-hd.m3u8
+
+#EXTINF:-1 tvg-id="kanald" tvg-name="KANAL D HD" tvg-logo="https://via.placeholder.com/100x100.png" group-title="Türkçe",KANAL D HD
+http://example.com/kanal-d-hd.m3u8
