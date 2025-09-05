@@ -1,28 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="sozcu" tvg-name="Sözcü TV HD" tvg-logo="https://via.placeholder.com/100x100.png" group-title="Türkçe",Sözcü TV HD
-http://example.com/sozcu-tv-hd.m3u8
+#EXTINF:-1 tvg-id="trt1" tvg-name="TRT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/TRT_1_logo.svg" group-title="Türkçe",TRT 1 HD
+https://iptv-org.github.io/iptv/countries/tr.m3u
 
-#EXTINF:-1 tvg-id="halktv" tvg-name="HALK TV HD" tvg-logo="https://via.placeholder.com/100x100.png" group-title="Türkçe",HALK TV HD
-http://example.com/halk-tv-hd.m3u8
+#EXTINF:-1 tvg-id="kanald" tvg-name="Kanal D HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Kanal_D_logo.svg" group-title="Türkçe",Kanal D HD
+https://iptv-org.github.io/iptv/countries/tr.m3u
 
-#EXTINF:-1 tvg-id="tele1" tvg-name="TELE 1 HD" tvg-logo="https://via.placeholder.com/100x100.png" group-title="Türkçe",TELE 1 HD
-http://example.com/tele1-tv-hd.m3u8
+#EXTINF:-1 tvg-id="showtv" tvg-name="Show TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Show_TV_logo.svg" group-title="Türkçe",Show TV HD
+https://iptv-org.github.io/iptv/countries/tr.m3u
 
-#EXTINF:-1 tvg-id="krt" tvg-name="KRT TV HD" tvg-logo="https://via.placeholder.com/100x100.png" group-title="Türkçe",KRT TV HD
-http://example.com/krt-tv-hd.m3u8
+#EXTINF:-1 tvg-id="atv" tvg-name="ATV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/ATV_logo.svg" group-title="Türkçe",ATV HD
+https://iptv-org.github.io/iptv/countries/tr.m3u
 
-#EXTINF:-1 tvg-id="nowtv" tvg-name="NOW TV HD" tvg-logo="https://via.placeholder.com/100x100.png" group-title="Türkçe",NOW TV HD
-http://example.com/now-tv-hd.m3u8
+#EXTINF:-1 tvg-id="star" tvg-name="Star TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Star_TV_logo.svg" group-title="Türkçe",Star TV HD
+https://iptv-org.github.io/iptv/countries/tr.m3u
 
-#EXTINF:-1 tvg-id="atv" tvg-name="ATV HD" tvg-logo="https://via.placeholder.com/100x100.png" group-title="Türkçe",ATV HD
-http://example.com/atv-tv-hd.m3u8
+#EXTINF:-1 tvg-id="trt2" tvg-name="TRT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/TRT_2_logo.svg" group-title="Türkçe",TRT 2 HD
+https://iptv-org.github.io/iptv/countries/tr.m3u
 
-#EXTINF:-1 tvg-id="showtv" tvg-name="SHOW TV HD" tvg-logo="https://via.placeholder.com/100x100.png" group-title="Türkçe",SHOW TV HD
-http://example.com/show-tv-hd.m3u8
+#EXTINF:-1 tvg-id="trt3" tvg-name="TRT 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/TRT_3_logo.svg" group-title="Türkçe",TRT 3 HD
+https://iptv-org.github.io/iptv/countries/tr.m3u
 
-#EXTINF:-1 tvg-id="startv" tvg-name="STAR TV HD" tvg-logo="https://via.placeholder.com/100x100.png" group-title="Türkçe",STAR TV HD
-http://example.com/star-tv-hd.m3u8
+#EXTINF:-1 tvg-id="trt4" tvg-name="TRT 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/TRT_4_logo.svg" group-title="Türkçe",TRT 4 HD
+https://iptv-org.github.io/iptv/countries/tr.m3u
 
-#EXTINF:-1 tvg-id="kanald" tvg-name="KANAL D HD" tvg-logo="https://via.placeholder.com/100x100.png" group-title="Türkçe",KANAL D HD
-http://example.com/kanal-d-hd.m3u8
+#EXTINF:-1 tvg-id="trt5" tvg-name="TRT 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/TRT_5_logo.svg" group-title="Türkçe",TRT 5 HD
+https://iptv-org.github.io/iptv/countries/tr.m3u
+
+#EXTINF:-1 tvg-id="trt6" tvg-name="TRT 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/TRT_6_logo.svg" group-title="Türkçe",TRT 6 HD
+https://iptv-org.github.io/iptv/countries/tr.m3u
