@@ -1,7 +1,3 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="trt1" tvg-name="TRT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/TRT_1_logo.svg" group-title="Türkçe",TRT 1 HD
-http://example.com/trt1/stream.m3u8
-
-#EXTINF:-1 tvg-id="kanald" tvg-name="Kanal D HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Kanal_D_logo.svg" group-title="Türkçe",Kanal D HD
-http://example.com/kanald/stream.m3u8
+#EXTINF:-1 tvg-id="A2TV" tvg-name="A2 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2f/A2_TV_logo.svg" group-title="Türkçe",A2 TV
+https://canlitvulusal.xyz/live/a2tv/index.m3u8
